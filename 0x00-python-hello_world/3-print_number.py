@@ -1,3 +1,3 @@
 #!/usr/bin/python3
 number = 98
-print ("%s. Battery street" %number)[D[D[D[D[D[D[D n
+print ("%s Battrey street" % number)
