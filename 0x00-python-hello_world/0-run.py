@@ -1,2 +1,3 @@
 #!/usr/bin/python3
-python3 $PYFILE
+ $PYFILE[D[D[D[D[D[D[C[C[C[C[C[C[C[C
+
